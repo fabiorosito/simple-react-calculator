@@ -1,0 +1,12 @@
+.operator{
+    background-color: #fb8c00;
+    color: white;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    flex: 1;
+    outline: 1px solid #888;
+}
